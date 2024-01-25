@@ -1,0 +1,57 @@
+[
+    {
+        "id": "user1",
+        "accounts": [
+            {
+                "accountId": "acc1",
+                "balance": 1000.0,
+                "currency": "USD"
+            },
+            {
+                "accountId": "acc2",
+                "balance": 500.0,
+                "currency": "USD"
+            },
+            {
+                "accountId": "acc3",
+                "balance": 750.0,
+                "currency": "USD"
+            }
+        ]
+    },
+    {
+        "id": "user2",
+        "accounts": [
+            {
+                "accountId": "acc4",
+                "balance": 1200.0,
+                "currency": "USD"
+            },
+            {
+                "accountId": "acc5",
+                "balance": 800.0,
+                "currency": "USD"
+            }
+        ]
+    },
+    {
+        "id": "user3",
+        "accounts": [
+            {
+                "accountId": "acc6",
+                "balance": 1500.0,
+                "currency": "USD"
+            },
+            {
+                "accountId": "acc7",
+                "balance": 900.0,
+                "currency": "USD"
+            },
+            {
+                "accountId": "acc8",
+                "balance": 600.0,
+                "currency": "USD"
+            }
+        ]
+    }
+]
